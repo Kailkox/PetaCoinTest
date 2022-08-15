@@ -1,0 +1,9 @@
+Building PetaCoin
+
+See doc/readme-qt.rst for instructions on building PetaCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of PetaCoin.
+
+See doc/build-*.txt for instructions on building PetaCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of PetaCoin.
